@@ -4,6 +4,11 @@
    "devices": ["SM-J250F54EED85D","M2010J19CG36AF9F55745012EE"],
    "expiry": "26-10-2023 12:59 AM"
  },
+  "zaim2222": {
+   "password": "$2y$12$Olg1fVsBIqQIL2fp96kGrOKYVfcU0yJ3arpecHrXhdQyRljZ8Tlc2",
+   "devices": ["M2003J15SCA41654D56DD6FC4B"],
+   "expiry": "26-10-2023 12:59 AM"
+ },
   "SONY1234": {
    "password": "$2y$12$RP6OCGu7hey9Vf48BeFFdOunrw5/dF1bcU98cJS3usLJzYZyDDDM6",
    "devices": ["INFINIXX6812B0AC8C6CFCC868516"],
