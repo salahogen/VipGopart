@@ -1,8 +1,9 @@
 {
-  "user1": {
-   "password": "$2y$12$JipDn5XBPpifJkQXPCQO5O1Ot6gfwK1xN1vMkENpJQTZWuwQMPPWG",
-   "expiry": "31-09-2023 5:59 AM"
-  },
+  "ibnu2345": {
+   "password": "$2y$12$5AwFj2NWiEemk/m6ATyX6eSvjWtY8d4PMDVY5AIk2N9A7kxTUXHyi",
+   "devices": ["SM-J250F54EED85D"],
+   "expiry": "26-10-2023 12:59 AM"
+ },
   "SONY1234": {
    "password": "$2y$12$RP6OCGu7hey9Vf48BeFFdOunrw5/dF1bcU98cJS3usLJzYZyDDDM6",
    "devices": ["INFINIXX6812B0AC8C6CFCC868516"],
