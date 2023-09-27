@@ -9,6 +9,11 @@
    "devices": ["M2003J15SCA41654D56DD6FC4B"],
    "expiry": "26-10-2023 12:59 AM"
  },
+  "fajar6767": {
+   "password": "$2y$12$E.lhn4Q8L202lmeNphEnUeDrXgObTjJGk1Ny80egpsgMX16Dcykfa",
+   "devices": ["INFINIXX6831057A8354A1FFDEB3"],
+   "expiry": "27-10-2023 12:59 AM"
+ },
   "dwi664422": {
    "password": "$2y$12$lQwc0ba.AcoCEjOUsns93..4FUxHQrrn6CVqzxvqhIsr2nAczvjia",
    "devices": ["SM-A032FC953D8240CB401F5"],
