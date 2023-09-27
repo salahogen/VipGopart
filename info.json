@@ -14,4 +14,9 @@
    "devices": ["INFINIXX6812B0AC8C6CFCC868516"],
    "expiry": "25-10-2023 12:59 AM"
  },
+  "yohanesgojek": {
+   "password": "$2y$12$flhCGRJlsDbfEPv5YG8di.W5vDRRggOSVHoGE9mtSpNSL2TUmEAl6",
+   "devices": ["VIVO1819784381617CA8BEE9"],
+   "expiry": "27-10-2023 12:59 AM"
+ },
 }
