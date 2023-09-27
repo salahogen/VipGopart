@@ -9,6 +9,11 @@
    "devices": ["M2003J15SCA41654D56DD6FC4B"],
    "expiry": "26-10-2023 12:59 AM"
  },
+  "dwi664422": {
+   "password": "$2y$12$lQwc0ba.AcoCEjOUsns93..4FUxHQrrn6CVqzxvqhIsr2nAczvjia",
+   "devices": ["SM-A032FC953D8240CB401F5"],
+   "expiry": "07-10-2023 12:59 AM"
+ },
   "SONY1234": {
    "password": "$2y$12$RP6OCGu7hey9Vf48BeFFdOunrw5/dF1bcU98cJS3usLJzYZyDDDM6",
    "devices": ["INFINIXX6812B0AC8C6CFCC868516"],
