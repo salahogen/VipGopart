@@ -4,6 +4,11 @@
    "devices": ["SM-J250F54EED85D","M2010J19CG36AF9F55745012EE"],
    "expiry": "26-10-2023 12:59 AM"
  },
+  "gojekbaby": {
+   "password": "$2y$12$PEG6AKB/QFG6QUXHhTSSY.AqbvXJzGAHXJwr41YncFzOjqjQVPULO",
+   "devices": ["REDMI8APROAE09D3A1AF99CEA9"],
+   "expiry": "30-10-2023 12:59 PM"
+ },
   "kuncrit333": {
    "password": "$2y$12$uu.v5/4szQXa3niHAGfEfeLSttN7QPM.ucR3kpv9Mz64WbTV/SVTS",
    "devices": ["REDMINOTE9PRO3A898EDE278FE9C8"],
