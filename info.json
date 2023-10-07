@@ -4,6 +4,11 @@
    "devices": ["SM-J250F54EED85D","M2010J19CG36AF9F55745012EE"],
    "expiry": "26-10-2023 12:59 AM"
  },
+  "dgk565656": {
+   "password": "$2y$12$4TNzq4idvI8VKgJilJ//R.gpoZpijmchs3x4awCvvcd9qfc/9e13e",
+   "devices": ["REDMI4X4CD05E4D7D04"],
+   "expiry": "07-11-2023 12:00 PM"
+ },
   "sayasaya": {
    "password": "$2y$12$QP0xmpSE9783O27KBmDQAuGSG4sCOr8Dj57m1oxmZVF2bnoz.ckBG",
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A"],
