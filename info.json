@@ -6,7 +6,7 @@
  },
   "sayasaya": {
    "password": "$2y$12$zypycousOOnuShoIZTqOmufKmaSwRX/n6pS0USMU0VODukOZfRZae",
-   "devices": ["REDMINOTE9PRODC742EDE4C30EE59"],
+   "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
   "gopartner1501": {
@@ -23,11 +23,6 @@
    "password": "$2y$12$4TNzq4idvI8VKgJilJ//R.gpoZpijmchs3x4awCvvcd9qfc/9e13e",
    "devices": ["REDMI4X4CD05E4D7D04"],
    "expiry": "07-11-2023 12:00 PM"
- },
-  "sayasaya": {
-   "password": "$2y$12$QP0xmpSE9783O27KBmDQAuGSG4sCOr8Dj57m1oxmZVF2bnoz.ckBG",
-   "devices": ["REDMINOTE9PRO5C1031A7B688B47A"],
-   "expiry": "31-10-2024 12:00 PM"
  },
   "daruliar334": {
    "password": "$2y$12$6IPd5otmFunATWUICuwZG.fkdLqg8YLcccqNrn4Xrne3XnRphAaTy",
