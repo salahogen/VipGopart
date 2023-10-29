@@ -44,44 +44,4 @@
    "devices": ["M2101K6G1E21811675FDA2CD"],
    "expiry": "02-11-2023 12:00 PM"
  },
-  "gojekbaby": {
-   "password": "$2y$12$PEG6AKB/QFG6QUXHhTSSY.AqbvXJzGAHXJwr41YncFzOjqjQVPULO",
-   "devices": ["REDMI8APROAE09D3A1AF99CEA9"],
-   "expiry": "30-10-2023 12:59 PM"
- },
-  "kuncrit333": {
-   "password": "$2y$12$uu.v5/4szQXa3niHAGfEfeLSttN7QPM.ucR3kpv9Mz64WbTV/SVTS",
-   "devices": ["REDMINOTE9PRO3A898EDE278FE9C8"],
-   "expiry": "31-10-2023 12:59 AM"
- },
-  "zaim2222": {
-   "password": "$2y$12$Olg1fVsBIqQIL2fp96kGrOKYVfcU0yJ3arpecHrXhdQyRljZ8Tlc2",
-   "devices": ["M2003J15SCA41654D56DD6FC4B"],
-   "expiry": "26-10-2023 12:59 AM"
- },
-  "fajar6767": {
-   "password": "$2y$12$E.lhn4Q8L202lmeNphEnUeDrXgObTjJGk1Ny80egpsgMX16Dcykfa",
-   "devices": ["INFINIXX6831057A8354A1FFDEB3"],
-   "expiry": "27-10-2023 12:59 AM"
- },
-  "dwi664422": {
-   "password": "$2y$12$lQwc0ba.AcoCEjOUsns93..4FUxHQrrn6CVqzxvqhIsr2nAczvjia",
-   "devices": ["SM-A032FC953D8240CB401F5"],
-   "expiry": "07-10-2023 12:59 AM"
- },
-  "SONY1234": {
-   "password": "$2y$12$RP6OCGu7hey9Vf48BeFFdOunrw5/dF1bcU98cJS3usLJzYZyDDDM6",
-   "devices": ["INFINIXX6812B0AC8C6CFCC868516"],
-   "expiry": "25-10-2023 12:59 AM"
- },
-  "yohanesgojek": {
-   "password": "$2y$12$flhCGRJlsDbfEPv5YG8di.W5vDRRggOSVHoGE9mtSpNSL2TUmEAl6",
-   "devices": ["VIVO1819784381617CA8BEE9"],
-   "expiry": "27-10-2023 12:59 AM"
- },
-  "taufik8989": {
-   "password": "$2y$12$uV7L05xN3FcRdCK6oR1oHeUnAf2W.Cx5QlRGZ/L4QjO3XmlfgdJMq",
-   "devices": ["VIVO18049561544B863B489F"],
-   "expiry": "28-10-2023 12:59 AM"
- },
 }
