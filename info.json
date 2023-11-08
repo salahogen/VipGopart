@@ -9,11 +9,6 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
-  "kasman812": {
-   "password": "$2y$12$9zrPSOpqa7zsfC0szFLd0uZMVnn8be77x7JV/ms7B71VjMe5eFn.m",
-   "devices": ["SM-A125F1BCE7FFA15FC30D4"],
-   "expiry": "08-12-2023 12:00 PM"
-},
   "derry0112": {
    "password": "$2y$12$wDth7DcrfDNGeJQW.lNsQOnf/Kq21XaF7hGH4sNFAVXnl/8E57edu",
    "devices": ["SM-A507FNA2E6771A9762A651"],
