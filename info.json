@@ -1,14 +1,14 @@
 {
-  "ibnu2345": {
-   "password": "$2y$12$kmBwezWWvvxsG1iMNlLdi.W4lRdGlbfrAYoLGqYBTyg//bJjkTMIu",
-   "devices": ["SM-J250F54EED85D","M2010J19CG36AF9F55745012EE"],
-   "expiry": "26-11-2023 12:59 AM"
- },
   "sayasaya": {
    "password": "$2y$12$zypycousOOnuShoIZTqOmufKmaSwRX/n6pS0USMU0VODukOZfRZae",
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
+  "ibnu2612": {
+   "password": "$2y$12$L4jwkgliXpq445CZqvlASuIYuyBETwDkyE3ccSbZYJnPMu61CR.ey",
+   "devices": ["M2010J19CG36AF9F55745012EE"],
+   "expiry": "26-12-2023 12:00 PM"
+},
   "derry0112": {
    "password": "$2y$12$wDth7DcrfDNGeJQW.lNsQOnf/Kq21XaF7hGH4sNFAVXnl/8E57edu",
    "devices": ["SM-A507FNA2E6771A9762A651"],
