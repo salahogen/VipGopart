@@ -29,4 +29,9 @@
    "devices": ["M2101K6G1E21811675FDA2CD"],
    "expiry": "02-12-2023 12:00 PM"
  },
+  "aseng2828": {
+   "password": "$2y$12$p6CU/itxEr7WlSzSqAed6e2mOXbSA.GRa95Ae2uZGlZ6/s5sKHE7e",
+   "devices": ["MIA2LITEAD3A6423B2B297D7"],
+   "expiry": "08-12-2023 12:00 PM"
+},
 }
