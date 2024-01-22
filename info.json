@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
+  "saetwo3737": {
+   "password": "$2y$12$1yifLjqE//pRj8CpUL1YJOC9x3V/94vByRp4MPAs.8LY5yy3bRblO",
+   "devices": ["REDMINOTE8PRO17574F3AF365F0AA"],
+   "expiry": "22-02-2024 12:00 PM"
+},
   "dgk383838": {
    "password": "$2y$12$.oBeD.o3RuAD6wIWwocQ2OJDNxbR0unnidc47MynR8.srRWNaac1O",
    "devices": ["REDMI5PLUS29F54A0E9805"],
