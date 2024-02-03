@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
+  "jamalo866": {
+   "password": "$2y$12$SFgMktdPnd8hZ3yslByWGeBo/M6x4RKqC9tRy99XPCpOnhIfV/NF2",
+   "devices": ["SM-A217FC3BA36019E79762E"],
+   "expiry": "03-03-2024 12:00 PM"
+},
   "dgk49281": {
    "password": "$2y$12$Of/zjnUwWX6n3rdetJ9vfe0qHqaUWiCKCcLQAjGiN82w2Gua8x/Jm",
    "devices": ["SM-A205FBDAE8ACE1B7E8C86"],
