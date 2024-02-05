@@ -4,9 +4,14 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
+  "irawan1919": {
+   "password": "$2y$12$i9MKm021Lof1BGxKanQSAOxvJwFPfq9NwL6RwTJtGSL2bx5Zz2tn.",
+   "devices": ["23021RAA2Y7EFB2C583DCD1BC2"],
+   "expiry": "05-03-2024 12:00 PM"
+},
   "arjuna2727": {
    "password": "$2y$12$rUcubZmhY.Eaz/S.Z7snBeQAioPVDUKJLJRDnW/G.oJdqRJHA6y.2",
-   "devices": ["23021RAA2Y7EFB2C583DCD1BC2","M2010J19SG26FF529D5108420E"],
+   "devices": ["M2010J19SG26FF529D5108420E"],
    "expiry": "05-03-2024 12:00 PM"
 },
   "jamalo866": {
