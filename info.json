@@ -39,61 +39,16 @@
    "devices": ["REDMINOTE5PROB855E8D4EA8E7AF8"],
    "expiry": "12-02-2024 12:00 PM"
 },
-  "daguk9999": {
-   "password": "$2y$12$W9OJCgkaYhIhVMnsG0rknOP8oJxyBOPJws0kVfB7Rsl67nvi5Z5M6",
-   "devices": ["MIA2LITEAD3A6423B2B297D7"],
-   "expiry": "26-01-2024 12:00 PM"
-},
   "daguk2201": {
    "password": "$2y$12$eXKJfcJT3oY92Re7s7exGeSa9.avFUDOCYDVwcnw6HZHicQDvIaBO",
    "devices": ["REDMI5PLUS29F54A0E9805"],
    "expiry": "22-01-2024 12:00 PM"
-},
-  "daguk2101": {
-   "password": "$2y$12$KSasQmV1SgvG5T9PBJy5c.Ratnh0VY4JbHYZXNAX9WQa9wZxHhNZO",
-   "devices": ["REDMINOTE751EEE9578F3FEBEA"],
-   "expiry": "21-01-2024 12:00 PM"
-},
-  "iwangjk20": {
-   "password": "$2y$12$QmdCLx6MKa3KHEcDRiXcC.fRxnuCNtg/S3yHcl1CURQshkLRt3rfq",
-   "devices": ["23021RAA2Y3655BE90744EAA1A"],
-   "expiry": "20-01-2024 12:00 PM"
-},
-  "XRAY1801": {
-   "password": "$2y$12$uJCCAGivkwHUNhnYq48AP.tPtFk1ZcQDN0jGq2RpUjoBbz2SFKHZS",
-   "devices": ["LENOVOL38041HKL4WN8V"],
-   "expiry": "18-02-2024 12:00 PM"
- },
-  "TDB120124": {
-   "password": "$2y$12$OMQCEAO404FrmpSKCFda0eBgj28PeEzm8Xiaxezpj4oGK87VtHUpC",
-   "devices": ["2201117TYC953AACE11AF8674"],
-   "expiry": "12-01-2024 12:00 PM"
-},
-  "duck0901": {
-   "password": "$2y$12$3KBsBiWdAJXHFHBv.cBuy.Pk2H8xtWXD5nIDugnhqQQsIbY/2NM6m",
-   "devices": ["SM-N950N5403B1A93AC291BA"],
-   "expiry": "09-01-2024 12:00 PM"
-},
-  "barbar901": {
-   "password": "$2y$12$8Gd7w1Wu.ASeHc8/QI8cE.5dMSExidg1khvFGpT.VNper73IOMtLS",
-   "devices": ["SM-A035F7577D3C0CC95C6D1"],
-   "expiry": "09-01-2024 12:00 PM"
-},
-  "yunior0601": {
-   "password": "$2y$12$/O5.eJ1OItcU7CkT4y77Z.LVD7/fNTJCjwCcstKWc1PB27HtUUBje",
-   "devices": ["REDMINOTE8A0F19CBDAF9ED9C7"],
-   "expiry": "06-01-2024 12:00 PM"
 },
   "ibnu2612": {
    "password": "$2y$12$L4jwkgliXpq445CZqvlASuIYuyBETwDkyE3ccSbZYJnPMu61CR.ey",
    "devices": ["SM-J730GE3479373F1791A9F","M2010J19CG36AF9F55745012EE"],
    "expiry": "26-02-2024 12:00 PM"
 },
-  "derry0112": {
-   "password": "$2y$12$wDth7DcrfDNGeJQW.lNsQOnf/Kq21XaF7hGH4sNFAVXnl/8E57edu",
-   "devices": ["SM-A507FNA2E6771A9762A651"],
-   "expiry": "01-12-2023 12:00 PM"
- },
   "gopartner1501": {
    "password": "$2y$12$hF8Uvuqu6bZBvDH6iTho7.kUu/eWVWzjbrmaxxhLkNRDw7S1a.cvy",
    "devices": ["SM-A042FC74622F854E3D6DB","VIVO1802IBQG4LCEWOFM49CY","M2006C3MGDD05DCDD7FEA3C27","INFINIXX653C13ED21DC40D073D9","SM-A346EAC4AA2E5ED78F967","SM-A105G6BCEF25F216C4BD8","REDMINOTE8EBD9B61DFA0D9BFD","CPH20838E4A4FE8EFBF0B84","SM-A105G7749A9C451AB8A51","M2006C3MG318CA16088118014","MI82579C045707622CD"],
@@ -104,14 +59,9 @@
    "devices": ["REDMI4X4CD05E4D7D04"],
    "expiry": "07-03-2024 12:00 PM"
  },
-  "kaysar3434": {
-   "password": "$2y$12$EqL93XGKQpNza5PmYqutu.WNfH57AEEYzXPlDUnZKOg.wtoAF1roS",
-   "devices": ["M2101K6G1E21811675FDA2CD"],
-   "expiry": "02-12-2023 12:00 PM"
- },
   "aseng2828": {
    "password": "$2y$12$p6CU/itxEr7WlSzSqAed6e2mOXbSA.GRa95Ae2uZGlZ6/s5sKHE7e",
    "devices": ["MIA2LITEAD3A6423B2B297D7"],
-   "expiry": "26-02-2024 12:00 PM"
+   "expiry": "26-03-2024 12:00 PM"
 },
 }
