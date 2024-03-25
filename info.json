@@ -9,31 +9,6 @@
    "devices": ["REDMINOTE9PRO7A870DF0AE7F1BE8"],
    "expiry": "06-04-2024 12:00 PM"
 },
-  "irawan1919": {
-   "password": "$2y$12$i9MKm021Lof1BGxKanQSAOxvJwFPfq9NwL6RwTJtGSL2bx5Zz2tn.",
-   "devices": ["23021RAA2Y7EFB2C583DCD1BC2"],
-   "expiry": "05-03-2024 12:00 PM"
-},
-  "arjuna2727": {
-   "password": "$2y$12$rUcubZmhY.Eaz/S.Z7snBeQAioPVDUKJLJRDnW/G.oJdqRJHA6y.2",
-   "devices": ["M2010J19SG26FF529D5108420E"],
-   "expiry": "05-03-2024 12:00 PM"
-},
-  "jamalo866": {
-   "password": "$2y$12$SFgMktdPnd8hZ3yslByWGeBo/M6x4RKqC9tRy99XPCpOnhIfV/NF2",
-   "devices": ["SM-A217FC3BA36019E79762E"],
-   "expiry": "03-03-2024 12:00 PM"
-},
-  "dgk49281": {
-   "password": "$2y$12$Of/zjnUwWX6n3rdetJ9vfe0qHqaUWiCKCcLQAjGiN82w2Gua8x/Jm",
-   "devices": ["SM-A205FBDAE8ACE1B7E8C86"],
-   "expiry": "24-02-2024 12:00 PM"
-},
-  "saetwo3737": {
-   "password": "$2y$12$1yifLjqE//pRj8CpUL1YJOC9x3V/94vByRp4MPAs.8LY5yy3bRblO",
-   "devices": ["REDMINOTE8PRO17574F3AF365F0AA"],
-   "expiry": "22-02-2024 12:00 PM"
-},
   "dgk383838": {
    "password": "$2y$12$.oBeD.o3RuAD6wIWwocQ2OJDNxbR0unnidc47MynR8.srRWNaac1O",
    "devices": ["REDMI5PLUS29F54A0E9805"],
@@ -49,11 +24,6 @@
    "devices": ["REDMI5PLUS29F54A0E9805"],
    "expiry": "22-01-2024 12:00 PM"
 },
-  "ibnu2612": {
-   "password": "$2y$12$L4jwkgliXpq445CZqvlASuIYuyBETwDkyE3ccSbZYJnPMu61CR.ey",
-   "devices": ["SM-J730GE3479373F1791A9F","M2010J19CG36AF9F55745012EE"],
-   "expiry": "26-03-2024 12:00 PM"
-},
   "gopartner1501": {
    "password": "$2y$12$hF8Uvuqu6bZBvDH6iTho7.kUu/eWVWzjbrmaxxhLkNRDw7S1a.cvy",
    "devices": ["SM-A042FC74622F854E3D6DB","VIVO1802IBQG4LCEWOFM49CY","M2006C3MGDD05DCDD7FEA3C27","INFINIXX653C13ED21DC40D073D9","SM-A346EAC4AA2E5ED78F967","SM-A105G6BCEF25F216C4BD8","REDMINOTE8EBD9B61DFA0D9BFD","CPH20838E4A4FE8EFBF0B84","SM-A105G7749A9C451AB8A51","M2006C3MG318CA16088118014","MI82579C045707622CD"],
@@ -67,6 +37,6 @@
   "aseng2828": {
    "password": "$2y$12$p6CU/itxEr7WlSzSqAed6e2mOXbSA.GRa95Ae2uZGlZ6/s5sKHE7e",
    "devices": ["MIA2LITEAD3A6423B2B297D7"],
-   "expiry": "26-03-2024 12:00 PM"
+   "expiry": "26-04-2024 12:00 PM"
 },
 }
