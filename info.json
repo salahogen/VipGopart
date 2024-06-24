@@ -14,49 +14,9 @@
    "devices": ["MIA2LITEAD3A6423B2B297D7"],
    "expiry": "25-07-2024 12:00 PM"
 },
-  "Liog9339": {
-   "password": "$2y$12$zY8Pi7NAy0QJ/J/LG31EFuLUJ4Fa44NBq.0vF3smFdKVW0AqHv4Y2",
-   "devices": ["REDMI5PLUSB6AB2B44C20A4711"],
-   "expiry": "28-04-2024 12:00 PM"
-},
-  "ibnu2737": {
-   "password": "$2y$12$1X3ZVmwBsI/G3FseE7SjBe17/EDd12IlQD6PTxH9tpo7UFH8WtZ5a",
-   "devices": ["SM-J730GE3479373F1791A9F","M2010J19CG36AF9F55745012EE"],
-   "expiry": "27-04-2024 12:00 PM"
-},
-  "siboy2882": {
-   "password": "$2y$12$mypw9gU/FAslQ1yHlQjCo.Cf2f2JGeLFTEaLK.2LFCMiAzHsGaxke",
-   "devices": ["REDMINOTE9PRO7A870DF0AE7F1BE8"],
-   "expiry": "06-04-2024 12:00 PM"
-},
   "dgk383838": {
    "password": "$2y$12$.oBeD.o3RuAD6wIWwocQ2OJDNxbR0unnidc47MynR8.srRWNaac1O",
    "devices": ["REDMI5PLUS29F54A0E9805"],
    "expiry": "22-05-2024 12:00 PM"
-},
-  "putra1818": {
-   "password": "$2y$12$iVGxDvB3vft/xyXC7eh/H.tH1EwJ1u4p9Be2tuTZShiyvGegE96j.",
-   "devices": ["REDMINOTE5PROB855E8D4EA8E7AF8"],
-   "expiry": "12-02-2024 12:00 PM"
-},
-  "daguk2201": {
-   "password": "$2y$12$eXKJfcJT3oY92Re7s7exGeSa9.avFUDOCYDVwcnw6HZHicQDvIaBO",
-   "devices": ["REDMI5PLUS29F54A0E9805"],
-   "expiry": "22-01-2024 12:00 PM"
-},
-  "gopartner1501": {
-   "password": "$2y$12$hF8Uvuqu6bZBvDH6iTho7.kUu/eWVWzjbrmaxxhLkNRDw7S1a.cvy",
-   "devices": ["SM-A042FC74622F854E3D6DB","VIVO1802IBQG4LCEWOFM49CY","M2006C3MGDD05DCDD7FEA3C27","INFINIXX653C13ED21DC40D073D9","SM-A346EAC4AA2E5ED78F967","SM-A105G6BCEF25F216C4BD8","REDMINOTE8EBD9B61DFA0D9BFD","CPH20838E4A4FE8EFBF0B84","SM-A105G7749A9C451AB8A51","M2006C3MG318CA16088118014","MI82579C045707622CD"],
-   "expiry": "31-10-2024 12:00 PM"
- },
-  "dgk565656": {
-   "password": "$2y$12$4TNzq4idvI8VKgJilJ//R.gpoZpijmchs3x4awCvvcd9qfc/9e13e",
-   "devices": ["REDMI4X4CD05E4D7D04"],
-   "expiry": "16-05-2024 12:00 PM"
- },
-  "aseng2828": {
-   "password": "$2y$12$p6CU/itxEr7WlSzSqAed6e2mOXbSA.GRa95Ae2uZGlZ6/s5sKHE7e",
-   "devices": ["MIA2LITEAD3A6423B2B297D7"],
-   "expiry": "26-05-2024 12:00 PM"
 },
 }
