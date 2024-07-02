@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO5C1031A7B688B47A","REDMINOTE9PRODC742EDE4C30EE59"],
    "expiry": "31-10-2024 12:00 PM"
  },
+  "malihkundang": {
+   "password": "$2y$12$NeCo5Yfkcc.eZv8JykObOuMA67zzoQbX7D2t8YpnJGTn0b3.q/wye",
+   "devices": ["M2006C3MG0C0E21383106C256"],
+   "expiry": "31-07-2024 12:00 PM"
+},
   "Lio81818": {
    "password": "$2y$12$fodwPnSBy4xU0UVfIueAR.avwL0PrRtnCFZ90rZObh4UIKZXtQ502",
    "devices": ["INFINIXX6833B791A3254D88AB960"],
