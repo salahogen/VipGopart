@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
    "expiry": "31-10-2025 12:00 PM"
  },
+  "test2345": {
+   "password": "$2y$12$HqudfNrN.umKAuaxJ5NtgOY0Xv17pRZy7.W.c3oLfsaas9mg7iBhG",
+   "devices": ["SM-A245M2BAE1335EA9109A6"],
+   "expiry": "17-10-2024 12:00 PM"
+},
   "humaymay": {
    "password": "$2y$12$kzhgTcqUyeOeSwfENR7NyuYcXUJs6Oa1zc2FULGpnbzpHUNzB1ABW",
    "devices": ["RMX19413A17D863499C7934"],
