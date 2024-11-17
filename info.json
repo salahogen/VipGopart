@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
    "expiry": "31-10-2025 12:00 PM"
  },
+  "gopart03": {
+   "password": "$2y$12$.HNY1zoUZlAizf/AY09ddezBc9ZXWKvazVjYtazUqn20k.pCgRt9W",
+   "devices": ["VIVO20194C41A82A4C412BCD"],
+   "expiry": "17-12-2024 12:00 PM"
+},
   "gopart02": {
    "password": "$2y$12$DB2gHGPodd2d640I.0cpQeBipiqMSGIFdyP1ME4prdS1rEvcSGWDy",
    "devices": ["23108RN04Y5A6DC8BEC4512275"],
