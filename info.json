@@ -14,16 +14,6 @@
    "devices": ["VIVO20194C41A82A4C412BCD"],
    "expiry": "17-12-2024 12:00 PM"
 },
-  "gopart02": {
-   "password": "$2y$12$DB2gHGPodd2d640I.0cpQeBipiqMSGIFdyP1ME4prdS1rEvcSGWDy",
-   "devices": ["23108RN04Y5A6DC8BEC4512275"],
-   "expiry": "17-12-2024 12:00 PM"
-},
-  "gopart01": {
-   "password": "$2y$12$bIHYELlKoEQ7JpnYSlVybO8Fq8TMsVrgzELHA/.orf3MGazkKckKC",
-   "devices": ["REDMINOTE76426CDC2520F892C"],
-   "expiry": "17-12-2024 12:00 PM"
-},
   "test2345": {
    "password": "$2y$12$HqudfNrN.umKAuaxJ5NtgOY0Xv17pRZy7.W.c3oLfsaas9mg7iBhG",
    "devices": ["SM-A245M2BAE1335EA9109A6"],
