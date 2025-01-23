@@ -19,10 +19,10 @@
    "devices": ["V2352DA772D1943BA2F87"],
    "expiry": "18-02-2025 12:00 PM"
 },
-  "danidani": {
-   "password": "$2y$12$C2ABJ9JL9LZ3DzLNPZENVuMXg/EOtquR9Ey38ue5zPJmxLEqPBSOa",
-   "devices": ["23053RN02A92F91CED8B3734C2"],
-   "expiry": "02-01-2025 12:00 PM"
+"GOPART20000": {
+   "password": "$2y$12$0mAP5ZAMC77UwNjt6z.YcO4yNvWkO0KrvI5z4XmsDNbFlLW2E6Sbq",
+   "devices": ["SM-A057FC9EA8354173EA003"],
+   "expiry": "28-02-2025 12:00 PM"
 },
   "herubona": {
    "password": "$2y$12$Sv0Bt.Xov06jMQUFpzHVOONNYr59WmWCd.xuhcxyrI3LX3uZGlH/O",
