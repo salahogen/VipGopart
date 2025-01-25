@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
    "expiry": "31-10-2025 12:00 PM"
  },
+  "GOCAR50000": {
+   "password": "$2y$12$nPNfgy1EAYgOHiVFOf5fE.Fp8dCu5pFwyqJXXbuB9IO.kvaigbkPe",
+   "devices": ["RMX376058CBFB98F523D48F"],
+   "expiry": "25-02-2025 12:00 PM"
+},
    "ayungayung": {
    "password": "$2y$12$iq38sHHK7HbFkPC3QwKx0OWhAG4l9EmOCH4m0WeTBAR0ntRHIEKpi",
    "devices": ["M2006C3MGEA2CEB4B4F14CC21","TECNOLI7A50BCC1F5E17D7DB"],
