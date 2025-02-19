@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "31-10-2025 12:00 PM"
  },
+  "GOJEK8430": {
+   "password": "$2y$12$iO5bJqcg5ofxCrQhEOUi4.lCiy8sjmrnoxfjizCSufuEhLraoiBmu",
+   "devices": ["ITELA666LN174C09F18A7AAE9F"],
+   "expiry": "31-03-2025 12:00 PM"
+},
   "1831SLAWE": {
    "password": "$2y$12$rYBolgabphe07kWbc/xPqOPtVipkXsidoUSnS6MxlnS4lRlJHi4sC",
    "devices": ["SM-A057FBDB0B5B0D7A80B44"],
