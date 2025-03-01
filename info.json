@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "31-10-2025 12:00 PM"
  },
+  "1840gojek": {
+   "password": "$2y$12$Zdz.RU2UEa/dY5.r0A0Th.W4QlQGo6C3hFxgwIIp9CRpdE5OylrzS",
+   "devices": ["SM-A115FC2E8FC3BE10B8666"],
+   "expiry": "31-03-2025 12:00 PM"
+},
   "GOJEK8430": {
    "password": "$2y$12$iO5bJqcg5ofxCrQhEOUi4.lCiy8sjmrnoxfjizCSufuEhLraoiBmu",
    "devices": ["SM-G610F50DF4AF905FE937D","ITELA666LN174C09F18A7AAE9F"],
