@@ -1,62 +1,7 @@
 {
   "sayasaya": {
    "password": "$2y$12$zypycousOOnuShoIZTqOmufKmaSwRX/n6pS0USMU0VODukOZfRZae",
-   "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
+   "devices": ["24090RA29G7E4AFF29B05EF9CA","REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "31-10-2025 12:00 PM"
  },
-  "gojek0101": {
-   "password": "$2y$12$myHk2vdY65IXHGCXi0kNHuNqQmBRIQ6Und9xCCSBaXXkuofbUE1xK",
-   "devices": ["SM-A115F1B2D29D6DD3B2448"],
-   "expiry": "15-07-2025 12:00 PM"
-},
-  "hendra0101": {
-   "password": "$2y$12$evWclYUToCou6Nqb1IPsxeCZY.xoWi2YoUfboQt.iK4N1Txo5GXW2",
-   "devices": ["23049PCD8G28763C49A899F9A0"],
-   "expiry": "16-06-2025 12:00 PM"
-},
-  "1840gojek": {
-   "password": "$2y$12$Zdz.RU2UEa/dY5.r0A0Th.W4QlQGo6C3hFxgwIIp9CRpdE5OylrzS",
-   "devices": ["SM-A115FC2E8FC3BE10B8666"],
-   "expiry": "31-03-2025 12:00 PM"
-},
-  "GOJEK8430": {
-   "password": "$2y$12$iO5bJqcg5ofxCrQhEOUi4.lCiy8sjmrnoxfjizCSufuEhLraoiBmu",
-   "devices": ["SM-G610F50DF4AF905FE937D","ITELA666LN174C09F18A7AAE9F"],
-   "expiry": "31-03-2025 12:00 PM"
-},
-  "1831SLAWE": {
-   "password": "$2y$12$rYBolgabphe07kWbc/xPqOPtVipkXsidoUSnS6MxlnS4lRlJHi4sC",
-   "devices": ["SM-A057FBDB0B5B0D7A80B44"],
-   "expiry": "31-03-2025 12:00 PM"
-},
-  "182120000": {
-   "password": "$2y$12$q.SvLtGH1NRl1pMfnAsoxOaPSDWakao3qIGflPepQKv03oOLK4vOu",
-   "devices": ["SM-A115FEB938E66174F09CC","INFINIXX6525E0889D316878912C","SM-G925T06157DF634283729","REDMINOTE10C1B8A536BD0E53AF","CPH1937B0F0E1AF99B78DD9","SCV3860A4443BF67A9299","REDMI9CF609D0930DA10312","SM-A115F1B2D29D6DD3B2448"],
-   "expiry": "31-03-2025 12:00 PM"
-},
-  "GOCAR50000": {
-   "password": "$2y$12$nPNfgy1EAYgOHiVFOf5fE.Fp8dCu5pFwyqJXXbuB9IO.kvaigbkPe",
-   "devices": ["24090RA29G88ADBEFC479D91BC"],
-   "expiry": "25-02-2025 12:00 PM"
-},
-   "ayungayung": {
-   "password": "$2y$12$iq38sHHK7HbFkPC3QwKx0OWhAG4l9EmOCH4m0WeTBAR0ntRHIEKpi",
-   "devices": ["M2006C3MGEA2CEB4B4F14CC21","TECNOLI7A50BCC1F5E17D7DB"],
-   "expiry": "07-02-2025 12:00 PM"
-},
-  "danidani2": {
-   "password": "$2y$12$DcdjqoYIQYmtgaZjHD.L4O3sXZVIMgdte/om7nA/NV1chM/Fo8R32",
-   "devices": ["22071219CGE95294A9E10453ED"],
-   "expiry": "18-02-2025 12:00 PM"
-},
-  "danidani1": {
-   "password": "$2y$12$/Hp3teBdbNDiFxjSp6lv3.3JneTAeNDe4VA/TtLRfmuxYgu43b0qC",
-   "devices": ["V2352DA772D1943BA2F87"],
-   "expiry": "18-02-2025 12:00 PM"
-},
-"GOPART20000": {
-   "password": "$2y$12$0mAP5ZAMC77UwNjt6z.YcO4yNvWkO0KrvI5z4XmsDNbFlLW2E6Sbq",
-   "devices": ["SCV3860A4443BF67A9299","RMX3081491C39F52EC56535","V22172B91CD413D86E024","REDMINOTE7CA59B09BEBBA4F88","INFINIXX680B9130947BE3706AFD","SM-A057FBDB0B5B0D7A80B44","SM-A057FC9EA8354173EA003"],
-   "expiry": "28-02-2025 12:00 PM"
-},
 }
