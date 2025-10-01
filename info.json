@@ -4,4 +4,9 @@
    "devices": ["24090RA29GE4B8F73B122C1264","REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "01-10-2029 12:00 PM"
  },
+  "ibnugojek": {
+   "password": "$2y$12$GS4OV.RxyVH2iF0MyB8IOeEPYZJoY4upd8KdITNVPj7xXFizF56mC",
+   "devices": ["M2010J19CGCBDAF961E09ACAD7"],
+   "expiry": "01-11-2025 12:00 PM"
+},
 }
